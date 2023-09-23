@@ -1678,3 +1678,7 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.justificado {
+  text-align: justify;
+}
